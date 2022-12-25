@@ -1,4 +1,4 @@
- # *58 Private Route, cleanUp func onAuthState React router *
+ # 58 Private Route, cleanUp func onAuthState React router 
 # direction ===> 
    1. context Api 
    2. Private Route()
