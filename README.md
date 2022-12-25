@@ -22,10 +22,13 @@ normal text
 - unorderlist 1 
 - unorderlist 2 
 - unorderlist 3
-`
-  <h2>Shahjalal</h2>
-   <noscript>You need to enable JavaScript to run this app.</noscript>
-`
+            `
+            <h2>Shahjalal</h2>
+            <noscript>You need to enable JavaScript to run this app.</noscript>
+            `
+
+    # creating copy 
+    copy area  vaiya             
 58 Private Route, cleanUp func onAuthState React router 
 
 **Form awarness ==> when use form compo be aware of  tag is form or div 
