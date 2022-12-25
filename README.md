@@ -1,35 +1,11 @@
+ # *58 Private Route, cleanUp func onAuthState React router *
 # direction ===> 
    1. context Api 
    2. Private Route()
    3. useNavigate() and navigate() 
    4. onAuthStateChanged() 
-   
-                                                # single 
-                                                ## double 
-                                                ### tripple 
-                     
-                     
- 
-            ##    shortNote  
 
-normal text 
-**Bold Text**         
-**bold text**
-*italic text*
-> block qoute 
-1. order list 
-2. order list 1 
-- unorderlist 1 
-- unorderlist 2 
-- unorderlist 3
-            `
-            <h2>Shahjalal</h2>
-            <noscript>You need to enable JavaScript to run this app.</noscript>
-            `
-
-    # creating copy 
-    copy area  vaiya             
-58 Private Route, cleanUp func onAuthState React router 
+         
 
 **Form awarness ==> when use form compo be aware of  tag is form or div 
 **how to consume context 
