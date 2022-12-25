@@ -19,3 +19,4 @@ core ===>
 2. Private Route 
 3.Clean up function onAuthStateChange()
 
+git a
