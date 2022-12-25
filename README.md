@@ -1,5 +1,14 @@
-
-#shortNote
+# direction ===> 
+   1. context Api 
+   2. Private Route()
+   3. useNavigate() and navigate() 
+   4. onAuthStateChanged() 
+   
+   # single 
+   ## double 
+   ### tripple 
+   #### fourth 
+## shortNote
 58 Private Route, cleanUp func onAuthState React router 
 
 **Form awarness ==> when use form compo be aware of  tag is form or div 
@@ -13,3 +22,5 @@ core ===>
 1. Context (according to the module) 
 2. Private Route 
 3.Clean up function onAuthStateChange()
+
+git 
