@@ -1,11 +1,22 @@
-import logo from './logo.svg';
+import { Routes } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 import './App.css';
+import Home from './components/Home';
+import Main from './layouts/Main';
+import { SideEffect } from './sideEffect/sideEffect';
+
+
 
 function App() {
+
   return (
-    <div className="App">
-        <h2>everything working very nice </h2>
-    </div>
+     <>
+     <SideEffect></SideEffect>
+      <Routes>
+        <Route path='/' element={<Main />}></Route>
+        <Route path='/home'  element={<Home></Home>}></Route>
+      </Routes> 
+     </>
   );
 }
 
